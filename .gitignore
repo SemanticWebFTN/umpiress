@@ -1,0 +1,4 @@
+/db.sqlite3
+umpiress/__pycache__/
+api/__pycache__/
+*.pyc
